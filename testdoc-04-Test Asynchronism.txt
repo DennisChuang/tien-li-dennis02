@@ -1,0 +1,5 @@
+Press CTRL + , to get to the options menu from which you can click sign out.
+
+在Github上，因為很多程式語言或框架都有自定的規矩，所以例如C語言在編譯的時候會產生出中間檔.o，Ruby On Rails會把加密用的字串放在secrets.yml裡。
+
+只要用相同的框架或程式語言，需要被排除的中間檔其實都差不多，因此Github很貼心幫你寫好了。你可以依照你的專案規格選擇他幫你寫好的Git ignore，或是選一種相近的來改。
