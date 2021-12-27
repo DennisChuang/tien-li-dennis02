@@ -1,0 +1,15 @@
+Press CTRL + , to get to the options menu from which you can click sign out.
+
+這個 README.md 是 GitHub 專案的預設說明頁面，附檔名 .md 表示它是一個 Markdown 格式，Markdown 語法可以很輕鬆的把純文字格式轉換成 HTML 的網頁格式，如果這是你第一次接觸這個語法，非常推薦花一點時間學習它。
+
+接下來這段，就是我們熟悉的 Git 了：
+
+$ git init
+Initialized empty Git repository in /private/tmp/practice-git/.git/
+
+$ git add README.md
+
+$ git commit -m "first commit"
+[master (root-commit) adc1a5a] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
