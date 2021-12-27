@@ -1,0 +1,1 @@
+Press CTRL + , to get to the options menu from which you can click sign out.
